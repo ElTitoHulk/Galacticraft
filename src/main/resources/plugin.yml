@@ -1,0 +1,8 @@
+name: Galacticraft
+author: Alejandro12120
+version: ${project.version}
+main: es.alejandro12120.galacticraft.Galacticraft
+description: Made with <3 by Alejandro12120
+commands:
+  directo:
+  setuparenas:

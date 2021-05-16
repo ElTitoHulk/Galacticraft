@@ -1,0 +1,22 @@
+USAGE-DIRECTO: "&cUSO: /directo <enlace>"
+NOT-A-LINK: "&cNo es un enlace &7&o(Ten en cuenta que tiene que contener https:// o http://)"
+DIRECTO-MESSAGE:
+  - " "
+  - "                 &d✎ &3¡&b<name> &3está en directo! &d✎"
+  - "                 &5» &a<url> &5«"
+  - " "
+DIRECTO-COOLDOWN: "5m"
+COOLDOWN-MESSAGE: "&cRelaja las manos, tienes que esperar <cooldown> para volver a hacer spam."
+BUILD-ARENAS:
+  - "BFish"
+  - "BCold"
+  - "BCanabis"
+  - "BMountain"
+  - "BNether"
+  - "BCandy"
+  - "BNature"
+  - "BKing"
+  - "BNightfall"
+  - "BMasterball"
+SUMO-ARENAS:
+  - "Beach"
